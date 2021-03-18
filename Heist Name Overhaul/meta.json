@@ -2,7 +2,7 @@
     {
         "ident" : "28389",
         "hash" : "085db5c10fd0dbe18f0389910605fa80ad50b6a29d64c6cd946f5afc5b408249",
-        "patchnotes_url" : "https://raw.githubusercontent.com/SpaceMartino/pd2-thingies/main/Heist%20Name%20Overhaul/Heist%20Name%20Overhaul%20Changelog",
+        "patchnotes_url" : "https://github.com/SpaceMartino/pd2-thingies/blob/main/Heist%20Name%20Overhaul/Heist%20Name%20Overhaul%20Changelog",
         "download_url" : "https://github.com/SpaceMartino/pd2-thingies/raw/main/Heist%20Name%20Overhaul/Heist%20Name%20Overhaul.zip"
     }
 ]
